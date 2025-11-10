@@ -3,14 +3,14 @@
 To design and implement an 8-bit Arithmetic Logic Unit (ALU) using Verilog HDL.
 
 ## TOOLS REQUIRED
-Quartus II Software
+Vivado
 
 ## THEORY
 An ALU performs arithmetic and logical operations.
 Common operations include addition, subtraction, AND, OR, XOR, NOT, and comparison.
 
 ## Procedure 
-Open Quartus II and create a new Verilog project.
+Open Vivado and create a new Verilog project.
 Write the Verilog code for 2:1 MUX and use it hierarchically to build an 8:1 MUX.
 Develop a testbench to apply different input and select combinations.
 Compile and simulate the design using ModelSim/Quartus II simulator.
